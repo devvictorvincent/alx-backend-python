@@ -1,8 +1,9 @@
-
 #!/usr/bin/env python3
 """
-A module made for creating asyncio Tasks that run asynchronous functions.
+A module made for creating asyncio Tasks that run
+asynchronous functions.
 """
+
 import asyncio
 wait_random = __import__('0-basic_async_syntax').wait_random
 
